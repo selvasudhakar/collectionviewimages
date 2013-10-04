@@ -1,9 +1,25 @@
-{
-  "collection": {
-    "photo": [
-      {"photo_url": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail0.jpg"},
-      {"photo_url": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail0.jpg"},
-      {"photo_url": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail0.jpg"}
-    ]
-  }
-}
+[{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail0.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail1.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail2.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail3.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail4.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail5.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail6.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail7.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail8.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail9.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail10.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail11.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail12.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail13.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail14.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail15.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail16.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail17.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail18.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail19.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail20.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail21.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail22.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail23.jpg"},
+{"imageurl": "https://raw.github.com/selvasudhakar/collectionviewimages/master/thumbnail24.jpg"}]
